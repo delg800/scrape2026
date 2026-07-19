@@ -1,0 +1,3 @@
+Python 13.5
+Install Microsoft C++ Redistributable
+Cookie json needed for adobe stock and pinterest scripts
