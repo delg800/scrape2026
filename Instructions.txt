@@ -1,3 +1,9 @@
 Python 13.5
 Install Microsoft C++ Redistributable
 Cookie json needed for adobe stock and pinterest scripts
+
+Helpful Links:
+https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe
+https://aka.ms/vc14/vc_redist.x64.exe
+https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.7/npp.8.9.7.Installer.x64.exe
+https://github.com/arsenetar/dupeguru/releases/download/4.3.1/dupeGuru_win64_4.3.1.exe
